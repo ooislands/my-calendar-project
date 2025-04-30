@@ -1,0 +1,8 @@
+{
+  "name": "my-calendar-project",
+  "version": "1.0.0",
+  "description": "Calendar project with Netlify functions",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
